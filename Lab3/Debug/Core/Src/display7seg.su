@@ -1,0 +1,4 @@
+display7seg.c:9:6:Display7SEG	16	static
+display7seg.c:106:6:Led7SEGOff	8	static
+display7seg.c:116:6:DisplayClock2	8	static
+display7seg.c:127:6:DisplayClock3	16	static

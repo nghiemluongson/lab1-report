@@ -1,0 +1,4 @@
+traffic1.c:11:6:SetRed1	8	static
+traffic1.c:17:6:SetYellow1	8	static
+traffic1.c:23:6:SetGreen1	8	static
+traffic1.c:29:6:Traffic1	8	static

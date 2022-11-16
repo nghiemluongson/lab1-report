@@ -1,0 +1,4 @@
+button1.c:14:5:Is_Button1_Pressed	4	static
+button1.c:22:6:Sub_Key_Process	4	static
+button1.c:26:6:Get_Key_Input	8	static
+button1.c:45:6:Button1_Mode	16	static
